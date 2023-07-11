@@ -122,5 +122,73 @@ height: 538px;
 .flower33{
    background-color: #477D1126; 
    border-radius: 300px 300px 0px 0px;
-   
 }
+.service{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2727270D;
+    width: 2200px;
+    height: 320px;
+    border-radius: 8px;
+    margin: 195px 400px 128px 400px;
+
+    align-items: center;
+}
+.section-img{
+    width: 88px;
+height: 88px;
+align-items: center;
+justify-content: center;
+
+}
+.section-p{
+    color:#272727CC ;
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+}
+ 
+ .s{
+   color: #E55473;
+ }
+ .discount2{
+    color:#27272799;
+text-align: center;
+font-size: 18px;
+font-weight: 400px;
+line-height: 30px;
+text-align: center;
+
+}
+.discount1{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 423px;
+text-align: center;
+}
+
+ 
+ .discount
+ {
+    display: flex;
+    width: 1922px;
+height: 620px;
+background-color: #E554730D;
+margin: 800px;
+margin-top: 128px;
+ }
+ .discount-img{
+    padding: 100px 430px 100px 1175px;
+    width: 318px;
+height: 420px;
+ }
+ 
+ 
+ 
+
+
